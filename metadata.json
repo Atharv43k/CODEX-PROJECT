@@ -1,0 +1,6 @@
+{
+  "name": "Metamorphosis Academic Tracker",
+  "description": "Student Academic Performance Tracker with real-time C++ REST calculation engine, semester GPA, cumulative CGPA, course credit analytics, and Metamorphosis dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
